@@ -1,5 +1,7 @@
-.back{
+body{
     background: red;
+}
+.back{
     height: 1000px;
     width: 100%;
 }
@@ -8,7 +10,7 @@
     position: absolute;
     width: 584px;
     height: 94px;
-    left: 728px;
+    left: 710px;
     top: 393px;
     font-family: 'Russo One';
     font-style: normal;
