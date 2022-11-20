@@ -33,3 +33,59 @@
     letter-spacing: 0.03em;
     color: #FFFFFF;
 }
+
+.button1{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 680px;
+    top: 600px;
+    background: #FE0202;
+    border-radius: 10px;
+}
+
+.button2{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 760px;
+    top: 600px;
+    background:  #42f9b0;
+    border-radius: 10px;
+}
+.button3{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 840px;
+    top: 600px;
+    background:  #0484d9;
+    border-radius: 10px;
+}
+.button4{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 920px;
+    top: 600px;
+    background:  #82f858;
+    border-radius: 10px;
+}
+.button5{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 1000px;
+    top: 600px;
+    background:  #f442df;
+    border-radius: 10px;
+}
+.button6{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 1080px;
+    top: 600px;
+    background:  #f7f429;
+    border-radius: 10px;
+}
